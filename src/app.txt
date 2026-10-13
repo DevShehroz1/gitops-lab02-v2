@@ -1,3 +1,4 @@
 Gitops Student Project
 Version 1
 login feature implemented 
+Student profile feature
